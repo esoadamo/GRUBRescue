@@ -8,7 +8,7 @@ Ever reinstalled your dualboot Windows and then found out that your GRUB is gone
 ## Installation & Running ##
 Boot to LiveOS with same version as your installed Linux distribution, download the latest version of script from GitHub, make it executable and run it as root.
 
-    wget https://raw.githubusercontent.com/esoadamo/GRUBRescue/master/repairGRUB.hshttps://raw.githubusercontent.com/esoadamo/GRUBRescue/master/repairGRUB.sh
+    wget https://raw.githubusercontent.com/esoadamo/GRUBRescue/master/repairGRUB.sh
     chmod +x repairGRUB.sh 
     sudo ./repairGRUB.sh 
 And follow instructions from script. If you run into problem, check requirements, help and list of OS which are knew to not work.
